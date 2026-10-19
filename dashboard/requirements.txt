@@ -4,3 +4,5 @@ numpy
 plotly
 statsmodels
 scipy
+jinja2
+matplotlib
